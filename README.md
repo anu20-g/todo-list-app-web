@@ -1,0 +1,1 @@
+# To-Do List Application - Team 1\n\nAdd, complete and delete tasks; optionally save tasks in Local Storage.\n\n## Preview\nOpen `index.html` in any modern web browser.\n
